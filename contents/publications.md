@@ -5,8 +5,7 @@ Science</strong>, 2025. [[Paper]](https://pubsonline.informs.org/doi/10.1287/mns
 - Jing Cao, Mun S. Ho, Rong Ma, Yu Zhang. Transition from plan to market: Imperfect
 regulations in the electricity sector of China. <strong>Journal of Comparative Economics</strong>, 2024. [[Paper]](https://doi.org/10.1016/j.jce.2024.01.001) [[Ungated version]](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/dispatch.pdf)
 
-- Rong Ma, Junlian Gao, Chenghe Guan, Bo Zhang. Coal mine closure substantially in-
-creases terrestrial water storage in China. <strong>Communications Earth & Environment</strong>, 2024. [[Paper]](hhttps://doi.org/10.1038/s43247-024-01589-z)
+- Rong Ma, Junlian Gao, Chenghe Guan, Bo Zhang. Coal mine closure substantially increases terrestrial water storage in China. <strong>Communications Earth & Environment</strong>, 2024. [[Paper]](hhttps://doi.org/10.1038/s43247-024-01589-z)
 
 - Jing Cao, Rong Ma. Mitigating agricultural fires with carrot or stick? Evidence from
 China. <strong>Journal of Development Economics</strong>, 2023. [[Paper]](https://doi.org/10.1016/j.jdeveco.2023.103173) [[Ungated version]](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/bpp.pdf)

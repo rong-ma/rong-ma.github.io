@@ -9,4 +9,4 @@ I am an Associate Professor of Economics at the College of Economics and Managem
 - Environmental Economics
 - Applied Microeconomics
 
-#### [Curriculum Vitae](https://github.com/rong-ma/rong-ma.github.io/tree/main/uploads)
+#### [Curriculum Vitae](https://github.com/rong-ma/rong-ma.github.io/tree/main/uploads/curriculumvitae.pdf)

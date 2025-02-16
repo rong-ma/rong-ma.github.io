@@ -10,7 +10,6 @@ regulations in the electricity sector of China. <strong>Journal of Comparative E
 - Jing Cao, Rong Ma. Mitigating agricultural fires with carrot or stick? Evidence from
 China. <strong>Journal of Development Economics</strong>, 2023. [[Paper]](https://doi.org/10.1016/j.jdeveco.2023.103173) [[Ungated version]](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/bpp.pdf)
 
-- Jing Cao, Mun S. Ho, Rong Ma, Fei Teng. When carbon emission trading meets a regu-
-lated industry: Evidence from the electricity sector of China. <strong>Journal of Public Economics</strong>, 2021. [[Paper]](https://doi.org/10.1016/j.jpubeco.2021.104470) [[Ungated version]](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/ETS.pdf)
+- Jing Cao, Mun S. Ho, Rong Ma, Fei Teng. When carbon emission trading meets a regulated industry: Evidence from the electricity sector of China. <strong>Journal of Public Economics</strong>, 2021. [[Paper]](https://doi.org/10.1016/j.jpubeco.2021.104470) [[Ungated version]](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/ETS.pdf)
 
 - Rong Ma, Ke Li, Yixin Guo, Bo Zhang, Xueli Zhao, Soren Linder, ChengHe Guan, Guoqian Chen, Yujie Gan, Jing Meng. Mitigation potential of global ammonia emissions and related health impacts in the trade network. <strong>Nature Communications</strong>, 2021. [[Paper]](https://doi.org/10.1038/s41467-021-25854-3)

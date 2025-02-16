@@ -9,4 +9,4 @@ rongma[at]cau.edu.cn
 - Environmental Economics
 - Applied Microeconomics
 
-#### [Curriculum Vitae](https://github.com/rong-ma/rong-ma.github.io/tree/main/uploads/curriculumvitae.pdf)
+#### [Curriculum Vitae](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/curriculumvitae.pdf)

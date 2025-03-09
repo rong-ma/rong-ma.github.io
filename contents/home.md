@@ -7,6 +7,5 @@ rongma[at]cau.edu.cn
 #### Research Interests
 - Energy Economics
 - Environmental Economics
-- Applied Microeconomics
 
 #### [Curriculum Vitae](https://raw.githubusercontent.com/rong-ma/rong-ma.github.io/main/uploads/curriculumvitae.pdf)

@@ -8,4 +8,4 @@ rongma[at]cau.edu.cn
 - Energy Economics
 - Environmental Economics
 
-#### [Curriculum Vitae](https://drive.google.com/file/d/13VxlyLxwJFxthv1phsQPoA4R8YvP8Gi1/view)
+#### [Curriculum Vitae](https://drive.google.com/file/d/1rCijVFa29C5K2ze3SRA9TjjRiUuSAE1_/view)
